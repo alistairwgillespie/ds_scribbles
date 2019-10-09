@@ -32,7 +32,6 @@
 ## About The Project
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Fast.ai](https://fastai.com)
 
 <!-- GETTING STARTED -->
@@ -46,8 +45,6 @@ This section should list any major frameworks that you built your project using.
 
 <!-- ROADMAP -->
 ## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
